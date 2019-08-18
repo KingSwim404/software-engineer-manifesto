@@ -12,7 +12,7 @@
 
 - ### Hope someone can help translate into other languages , thanks
 
-- Manifesto content
+- ### Manifesto content
 
   [中文版—简体](zh/CN/SEM.md)
 
