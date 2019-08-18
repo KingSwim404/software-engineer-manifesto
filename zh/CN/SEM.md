@@ -14,4 +14,4 @@
 
 - 保持终生学习；
 
-  宣誓人：[KingSwim](https://github.com/KingSwim404)
+  宣誓人：<a href="https://github.com/KingSwim404">@KingSwim</a>
