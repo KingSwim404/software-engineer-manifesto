@@ -14,4 +14,4 @@
 
 - Keep learning；
 
-  宣誓人：xxx
+  swearer：xxx
