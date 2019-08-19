@@ -4,6 +4,8 @@
 
   [中文版—简体](zh/CN/SEM.md)
   
+  [English Version](en/SEM.md)
+  
 - ### Fork this project , and  sign your name to start a  new  programming phase
 
   - If  you  don't  agree with this manifesto,don"t  fork  it.
