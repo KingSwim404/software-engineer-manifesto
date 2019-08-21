@@ -6,7 +6,7 @@
   
   [English Version](en/SEM.md)
   
-- ### The originator and time
+- ### The originator and date
 
   [@KingSwim](https://github.com/KingSwim404) — 2019-08-18   
   
@@ -16,7 +16,7 @@
 
   - If you agree but does not planning to require yourself, don't fork it.
 
-  - Hope that you not only understand, but also going to use this manifesto require yourself.
+  - Hope you not only understand, but also use this manifesto require yourself.
 
 - ### Hope someone can help translate into other languages , thanks
 
