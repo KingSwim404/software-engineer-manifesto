@@ -22,7 +22,7 @@
 
   - Hope you not only understand, but also use this manifesto to require yourself.
 
-  - Do not accept requests from people who want to cancel their signed names, so please think twice before fork.
+  - Do not accept requests from people who want to cancel their signed names, so please think twice before pull requests to sign.
 
   - Signature as follows:
 
