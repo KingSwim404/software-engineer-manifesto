@@ -29,9 +29,9 @@
     ```markdown
     - ### Swearer
       
-      [@KingSwim](https://github.com/KingSwim404) — 2019-08-18
+      [@KingSwim](https://github.com/KingSwim404) — 2019-08-18   // is me
       
-      [@ your github name ](your github home page link) — date
+      [@your github name ](your github home page link) — date    // is you
     
     ```
 
