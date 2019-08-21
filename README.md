@@ -18,7 +18,7 @@
 
   - Hope that you not only understand, but also going to use this manifesto require yourself.
 
-- ### Hope someone can help translate into other languages , thanks
+- ### Hope someone can help translate into other languages and modify some grammatical mistakes, thanks
 
 
 
