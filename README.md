@@ -16,7 +16,7 @@
 
   - If you agree but does not planning to require yourself, don't fork it.
 
-  - Hope you not only understand, but also use this manifesto require yourself.
+  - Hope you not only understand, but also use this manifesto to require yourself.
 
 - ### Hope someone can help translate into other languages , thanks
 
