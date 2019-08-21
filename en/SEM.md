@@ -14,4 +14,6 @@
 
 - Keep learning；
 
-  swearer：xxx
+  swearer：
+  
+  [@KingSwim](https://github.com/KingSwim404) — 2019-08-18

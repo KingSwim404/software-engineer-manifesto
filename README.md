@@ -6,6 +6,10 @@
   
   [English Version](en/SEM.md)
   
+- ### The originator and time
+
+  [@KingSwim](https://github.com/KingSwim404) — 2019-08-18   
+  
 - ### Fork this project , and  sign your name to start a  new  programming phase
 
   - If  you  don't  agree with this manifesto,don't  fork  it.

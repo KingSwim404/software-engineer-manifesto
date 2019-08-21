@@ -14,4 +14,6 @@
 
 - 持续学习；
 
-  宣誓人：[@KingSwim](https://github.com/KingSwim404)
+  宣誓人：
+  
+  [@KingSwim](https://github.com/KingSwim404) — 2019-08-18
