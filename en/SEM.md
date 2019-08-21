@@ -13,7 +13,3 @@
 - As you can, keep code : high cohesion, low coupling, easy to expand, reusable, and maintainable;；
 
 - Keep learning；
-
-  swearer：
-  
-  [@KingSwim](https://github.com/KingSwim404) — 2019-08-18
