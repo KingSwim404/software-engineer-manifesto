@@ -2,6 +2,8 @@
 
 - Encounter problems ask google first;
 
+- Standing in the Angle of the respondents to ask questions；
+
 - As you can, makes people understand your code;
 
 - Take responsibility for your own code，if the code not self-tested  never available to others;
